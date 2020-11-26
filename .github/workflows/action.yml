@@ -1,6 +1,0 @@
-name: 'Build LaTeX'
-description: 'Build LaTeX'
-runs:
-    using: 'docker'
-    image: 'Dockerfile'
-  
