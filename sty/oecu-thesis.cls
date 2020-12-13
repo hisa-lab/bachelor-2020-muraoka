@@ -231,6 +231,8 @@
       \vskip 3ex%
     {\large 指導教員\quad\@指導教員}\hspace{10mm}%\fbox{印}\\%
 %	  \underline{\tiny 注意: 教員印またはサインがないものは受理しない。}\\[4ex]
+    {\large 指導教員\quad\@指導教員}\hspace{10mm}%\fbox{印}\\%
+%	  \underline{\tiny 注意: 教員印またはサインがないものは受理しない。}\\[4ex]
       {\normalsize\@date}\\[10ex]%
       {\large{\spaceskip=1zw 大阪電気通信大学 \@所属}\par}%
   \end{center}\par
