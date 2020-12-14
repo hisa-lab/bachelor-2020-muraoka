@@ -229,7 +229,7 @@
         {\Large\@学生番号\quad\@author}
       \end{tabular}\par}%
       \vskip 3ex%
-    {\large 指導教員\quad\@指導教員}\hspace{10mm}%\fbox{印}\\%
+    {\large 指導教員\quad\@指導教員}\hspace{10mm}\\%\fbox{印}\\%
 %	  \underline{\tiny 注意: 教員印またはサインがないものは受理しない。}\\[4ex]
 \par
       {\normalsize\@date}\\[10ex]%
